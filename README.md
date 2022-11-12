@@ -33,5 +33,5 @@
 
 Continuación de Reto NodeJS - HTTP Requests -Bases de Datos \
 [Enlace Reto](https://paper.dropbox.com/doc/Reto-de-Node-HTTP-y-Bases-de-Datos-p9dWNgBSNXj8ZpZfK9C60) \
-[Enlace versión original](https://github.com/ht1204/reto-node)
+[Enlace versión original](https://github.com/ht1204/reto-node) \
 [Enlace versión remake Node+TS](https://github.com/ht1204/reto-node-v2)
