@@ -1,8 +1,7 @@
-# Reto Python - HTTP Request - Redi - MongoDB
-# Segunda Versión (Node + Typescript)
+# Reto Python - HTTP Request - Redis - MongoDB
+# Remake Reto NodeJS http & base de datos
 
 ## Instrucciones
-
 - Instalar Python versión 3.
 - Para instalar dependencias/librerías: ```pip3 install -r requirements.txt ```  o ```pip install -r requirements.txt ``` .
 - Crear variable virtual en raíz del proyecto: ```python3 -m venv .venv```; donde ```.venv``` es el nombre de la variable virtual.
