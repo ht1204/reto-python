@@ -6,7 +6,7 @@
 - Crear variable virtual en raíz del proyecto: ```python3 -m venv .venv```; donde ```.venv``` es el nombre de la variable virtual.
 - Activar variable virtual: ```source .venv/bin/activate```; esto es necesario para correr el proyecto.
 - Para activar variable virtual en windows OS: ```.venv\Scripts\activate```.
-- - Para instalar dependencias/librerías: ```pip3 install -r requirements.txt ```  o ```pip install -r requirements.txt ``` .
+- Para instalar dependencias/librerías: ```pip3 install -r requirements.txt ```  o ```pip install -r requirements.txt ``` .
 - Para desactivar la variable virtual (en raíz del proyecto): ```deactivate```
 
 ## Para correr
