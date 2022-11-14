@@ -10,6 +10,7 @@
 - Para actualizar instalación de dependencias (en raíz del proyecto): ```pip freeze > requirements.txt ```.
 - Para desactivar la variable virtual (en raíz del proyecto): ```deactivate```
 
+Nota: proyecto realizado en editor vscode.
 ## Para correr
 - Escribir en la raíz del proyecto: ```python main.py ```
 
